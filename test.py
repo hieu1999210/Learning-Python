@@ -1,8 +1,10 @@
 print("Hello")
 
 # def fib(n):
-#     """Assumes int n >= 0
-#     Return Fibonacci of n"""
+#     """
+#     Assumes int n >= 0
+#     Return Fibonacci of n
+#     """
 #     global numFibCalls
 #     numFibCalls +=1
 #     if n == 0 or n==1:
@@ -21,10 +23,12 @@ print("Hello")
 # fib()
 
 # def isPalindrome(s):
-#     """Assumes s is a string.
+#     """
+#     Assumes s is a string.
 #     Return True if letters in s form a palindrome.
 #     False otherwise.
-#     Non-letter and capitalization are ignored."""
+#     Non-letter and capitalization are ignored.
+#     """
 
 #     def toChar(s):
 #         s = s.lower()
